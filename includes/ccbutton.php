@@ -4,8 +4,7 @@ class CCButton {
 
     const CC_BUTTON_HEAD = '<div class="cc-attribution-element"><button class="cc-attribution-button cc-attribution-copy-button" data-clipboard-action="copy" data-clipboard-text="" ';
 
-    const CC_BUTTON_TAIL = '"><span data-l10n-id="Share">Share</span>'
-                         . '</button>
+    const CC_BUTTON_TAIL = '"><span data-l10n-id="Share">Share</span></button>
 <div class="cc-dropdown-wrapper"><button class="cc-attribution-format-select">HTML &#x25BC;</button>
 <ul class="cc-dropdown-menu" aria-haspopup="true" aria-expanded="false">
     <li class="cc-dropdown-menu-item cc-dropdown-menu-item-selected"><a class="cc-dropdown-menu-item-link cc-format-html-rdfa" data-cc-format="html-rdfa" href="#">HTML</a></li>
